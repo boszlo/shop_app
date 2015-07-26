@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-ExampleStore::Application.load_tasks
+ShopApp::Application.load_tasks
